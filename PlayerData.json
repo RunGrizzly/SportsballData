@@ -1,0 +1,29 @@
+{
+    "Players": [
+        {
+            "name": "Jorge Alvarez",
+            "dribble": 10,
+            "pass": 10,
+            "shoot": 10,
+            "tackle": 10,
+            "intercept": 10,
+            "goalie": 10,
+            "abilities": [
+                "Captain Fantastic",
+                "Four Lungs"
+            ]
+        },
+        {
+            "name": "Devin Whosyerwahtsit",
+            "dribble": 10,
+            "pass": 10,
+            "shoot": 10,
+            "tackle": 10,
+            "intercept": 10,
+            "goalie": 10,
+            "abilities": [
+                "Lazershot"
+            ]
+        }
+    ]
+}
