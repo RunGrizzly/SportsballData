@@ -1,13 +1,29 @@
- {
-    "FullName": "Jorge Alvarez",
-    "Dribble": 10,
-    "Pass": 10,
-    "Shoot": 10,
-    "Tackle": 10,
-    "Intercept": 10,
-    "Goalie": 10,
-    "Abilities": [
-        "Captain Fantastic",
-        "Four Lungs"
+{
+    "Players": [
+        {
+            "FullName": "Jorge Alvarez",
+            "Dribble": 10,
+            "Pass": 10,
+            "Shoot": 10,
+            "Tackle": 10,
+            "Intercept": 10,
+            "Goalie": 10,
+            "Abilities": [
+                "Captain Fantastic",
+                "Four Lungs"
+            ]
+        },
+        {
+            "name": "Devin Whosyerwahtsit",
+            "dribble": 10,
+            "pass": 10,
+            "shoot": 10,
+            "tackle": 10,
+            "intercept": 10,
+            "goalie": 10,
+            "abilities": [
+                "Lazershot"
+            ]
+        }
     ]
- }
+}
