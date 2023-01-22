@@ -10,16 +10,4 @@
         "Captain Fantastic",
         "Four Lungs"
     ]
-},
-{
-    "Name": "Devin Whosyerwahtsit",
-    "Dribble": 10,
-    "Pass": 10,
-    "Shoot": 10,
-    "Tackle": 10,
-    "Intercept": 10,
-    "Goalie": 10,
-    "Abilities": [
-        "Lazershot"
-    ]
 }
