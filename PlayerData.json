@@ -1,5 +1,3 @@
-{
-    "Players": [
         {
             "FullName": "Jorge Alvarez",
             "Dribble": 10,
@@ -25,5 +23,3 @@
                 "Lazershot"
             ]
         }
-    ]
-}
