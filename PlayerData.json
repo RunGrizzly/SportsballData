@@ -23,5 +23,17 @@
         "Abilities": [
             "Lazershot"
         ]
+    },
+    "141292": {
+        "FullName": "Shelley Harvey",
+        "Dribble": 10,
+        "Pass": 10,
+        "Shoot": 10,
+        "Tackle": 10,
+        "Intercept": 10,
+        "Goalie": 10,
+        "Abilities": [
+            "Diddy Washer"
+        ]
     }
 }
