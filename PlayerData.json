@@ -1,29 +1,27 @@
 {
-    "Players": {
-        "000202": {
-            "FullName": "Jorge Alvarez",
-            "Dribble": 10,
-            "Pass": 10,
-            "Shoot": 10,
-            "Tackle": 10,
-            "Intercept": 10,
-            "Goalie": 10,
-            "Abilities": [
-                "Captain Fantastic",
-                "Four Lungs"
-            ]
-        },
-        "093012": {
-            "FullName": "Devin Whosyerwahtsit",
-            "Eribble": 10,
-            "Pass": 10,
-            "Shoot": 10,
-            "Tackle": 10,
-            "Intercept": 10,
-            "Goalie": 10,
-            "Abilities": [
-                "Lazershot"
-            ]
-        }
+    "000202": {
+        "FullName": "Jorge Alvarez",
+        "Dribble": 10,
+        "Pass": 10,
+        "Shoot": 10,
+        "Tackle": 10,
+        "Intercept": 10,
+        "Goalie": 10,
+        "Abilities": [
+            "Captain Fantastic",
+            "Four Lungs"
+        ]
+    },
+    "093012": {
+        "FullName": "Devin Whosyerwahtsit",
+        "Eribble": 10,
+        "Pass": 10,
+        "Shoot": 10,
+        "Tackle": 10,
+        "Intercept": 10,
+        "Goalie": 10,
+        "Abilities": [
+            "Lazershot"
+        ]
     }
 }
