@@ -1,6 +1,6 @@
 {
-    "Players": [
-        {
+    "Players": {
+        "000202": {
             "FullName": "Jorge Alvarez",
             "Dribble": 10,
             "Pass": 10,
@@ -13,7 +13,7 @@
                 "Four Lungs"
             ]
         },
-        {
+        "093012": {
             "FullName": "Devin Whosyerwahtsit",
             "Eribble": 10,
             "Pass": 10,
@@ -25,5 +25,5 @@
                 "Lazershot"
             ]
         }
-    ]
+    }
 }
